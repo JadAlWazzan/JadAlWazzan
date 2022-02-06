@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JadAlWazzan
-- 👀 I’m interested in Data Analysis and programming 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Data Analysis projects
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently working on my protfolio and looking for internships
+- 💞️ I’m looking to collaborate on software engineering projects
 - 📫 You can reach me by email on Wazzanjad@hotmail.com
 
 <!---
